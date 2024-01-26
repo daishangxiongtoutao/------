@@ -1,0 +1,5 @@
+E:\mcs8\dllsoft\csharp\MCS8Demo1\bin\x64\Debug\MCS8Demo1.exe.config
+E:\mcs8\dllsoft\csharp\MCS8Demo1\bin\x64\Debug\MCS8Demo1.exe
+E:\mcs8\dllsoft\csharp\MCS8Demo1\bin\x64\Debug\MCS8Demo1.pdb
+E:\mcs8\dllsoft\csharp\MCS8Demo1\obj\x64\Debug\MCS8Demo1.exe
+E:\mcs8\dllsoft\csharp\MCS8Demo1\obj\x64\Debug\MCS8Demo1.pdb

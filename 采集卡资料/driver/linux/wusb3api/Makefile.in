@@ -1,0 +1,6 @@
+MODULE    = wusb3api.dll
+IMPORTS   = usb-1.0
+
+C_SRCS = \
+	wusb3api.c
+
